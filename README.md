@@ -5,7 +5,7 @@
 - ✉️ Reach out at finopsinsider@gmail.com or holler on LinkedIn.
 - 🐴 Fun fact: I once wrangled a cloud bill down like a wild stallion on the run!
 
-Check out finopsinsider.com for the latest insights and tales from the FinOps frontier.
+Check out [finopsinsider.com](https://www.finopsinsider.com) for the latest insights and tales from the FinOps frontier.
 
 <!---
 finopsinsider/finopsinsider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
